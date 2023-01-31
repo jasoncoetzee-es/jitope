@@ -1,2 +1,2 @@
 # jitope
-Gitops atope de power per no
+Gitops atope de power pero no
