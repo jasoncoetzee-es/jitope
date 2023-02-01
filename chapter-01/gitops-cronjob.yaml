@@ -4,7 +4,7 @@ metadata:
   name: gitops-cron
   namespace: gitops
 spec:
-  schedule: "*/5 * * * *"                            #A
+  schedule: "*/2 * * * *"                            #A
   concurrencyPolicy: Forbid                          #B
   jobTemplate:                                       #D
     spec:
